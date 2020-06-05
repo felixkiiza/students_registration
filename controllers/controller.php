@@ -6,7 +6,7 @@ class controller{
 		header('Location:view/registration.php');
 	}
 	public function login(){
-		header('Location:view/login.php');
+		header('Location:view/viewstudents.php');
 	}
 }
 ?>

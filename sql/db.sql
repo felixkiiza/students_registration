@@ -6,7 +6,7 @@ SET time_zone = "+00:00";
 
 CREATE TABLE `student` (
   `id` int(11) NOT NULL,
-  `regno` varchar(20) NOT NULL,
+  `reg_no` varchar(20) NOT NULL,
   `lname` varchar(20) NOT NULL,
   `fname` varchar(20) NOT NULL,
   `mobile` varchar(20) NOT NULL,
